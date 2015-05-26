@@ -1,5 +1,8 @@
 # ElasticWolf
 
+**NOTE**: Please note that this project is no longer actively maintained. For the latest,
+AWS-supported version of ElasticWolf, please visit the [AWS ElasticWolf Client Console page](https://aws.amazon.com/developertools/9313598265692691).
+
 ElasticWolf is an application for managing Amazon Web Services resources with a simple and
 easy to use client-side UI.
 
